@@ -1,0 +1,43 @@
+html {
+    font-family: 'Franklin Gothic Medium';
+}
+
+nav a:hover {
+    color: green;
+}
+
+img {
+    height: 500px;
+    width: 800px;
+    object-fit: contain;
+}
+
+.city-image {
+    float: right;
+}
+
+.city-aside {
+    position: relative;
+    top: 200px;
+    color: blue;
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+#infoForm {
+    margin: 10px 10px 10px 10px;
+}
+
+table,
+th,
+td {
+    border: 5px solid black;
+}
+
+#map {
+    position: absolute;
+    top: 150px;
+    left: 800px;
+}
