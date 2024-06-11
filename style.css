@@ -1,0 +1,17 @@
+html {
+    font-family: 'Franklin Gothic Medium';
+}
+
+nav a:hover {
+    color: green;
+}
+
+img {
+    height: 500px;
+    width: 800px;
+    object-fit: contain;
+}
+
+.city-image{
+    float: right;
+}
